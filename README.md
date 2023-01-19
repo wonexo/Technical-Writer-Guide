@@ -1,3 +1,3 @@
 # Technical-Writer-Guide
 
-See [Wiki Page](https://github.com/wonexo/Technical-Writer-Guide/wiki) to get started.
+View the Technical Writer's guide on my [Wiki Page](https://github.com/wonexo/Technical-Writer-Guide/wiki). 
